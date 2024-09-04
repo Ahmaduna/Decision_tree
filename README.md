@@ -1,4 +1,3 @@
-# Decision_tree
 
 # Prédiction du Diabète avec un Arbre de Décision
 
